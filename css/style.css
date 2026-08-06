@@ -445,6 +445,9 @@ textarea.input {
   left: -1.25rem;
   border-radius: 50%
 }
+.form-footer__btn-send {
+  align-self: flex-end;
+}
 .form-footer__arrow-send-icon {
   color: #333;
   transition: color .3s ease 0s
