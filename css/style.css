@@ -1399,11 +1399,6 @@ textarea {
   .design__title h1::after {
     left: 31.25rem
   }
-  /*
-  .counters {
-    //top: 8.75rem
-  }
-  */
   .counters {
     right: 6.25rem
   }
